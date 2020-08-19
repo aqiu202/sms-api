@@ -1,5 +1,9 @@
 package com.github.aqiu202.api.sms.exp;
 
+/**
+ * <pre>短信操作异常</pre>
+ * @author aqiu 2020/8/19 6:02 下午
+**/
 public class SmsException extends RuntimeException {
 
     private String errCode;
