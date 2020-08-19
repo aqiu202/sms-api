@@ -8,6 +8,7 @@
     <artifactId>sms-api</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
+    <name>sms-api</name>
     <url>https://github.com/aqiu202/sms-api</url>
     <description>A SMS Standards API for Java</description>
     <licenses>
